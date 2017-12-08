@@ -93,4 +93,4 @@ chkconfig redis on
 reboot
 然后在用redis-cli测试即可。
 
- 
+ Refrence website:https://www.cnblogs.com/silent2012/p/4157728.html
