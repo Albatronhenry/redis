@@ -108,7 +108,7 @@ reboot
 -------------------------
 * 给redis添加密码 `/usr/local/redis/bin`目录下redis.conf里面配置requirepass root111    
 * 同时将 bind 127.0.0.1 注释为# bind 127.0.0.1   (vi编辑查找使用 / )
-* 配置好了,启用./redis-cli操作需要输入授权密码   auth root111
+* 配置好了,启用./redis-cli操作需要输入授权密码   auth root111  [配置授权密码](https://blog.csdn.net/zyz511919766/article/details/42268219)
 * 查看网络是否正常,ping一下
 * 检查Redis是否正常启动  ps aux|grep redis
 * 防护墙是否开启，或者对应的6379端口是否开放 未开放6379
