@@ -1,7 +1,13 @@
 [redis启动和客户端连接终极整理]()
 ----------
-linux 下redis主要目录:/etc/init.d/redis     /usr/local/redis/bin目录下   /usr/local/redis/redis-3.0.7目录下   
-----------
+linux 下redis主要目录:
+
+/etc/init.d/redis 
+
+/usr/local/redis/bin目录下  
+
+/usr/local/redis/redis-3.0.7目录下   
+
 ① [redis开机自启动](https://www.cnblogs.com/silent2012/p/4157728.html)
 -----------------
 
